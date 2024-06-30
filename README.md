@@ -1,6 +1,6 @@
 # Face Detection App
 
-![OpenCV Logo](https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text.png)
+![OpenCV Logo]([https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text.png](https://viso.ai/wp-content/uploads/2022/04/opencv-wallpaper.png))
 ![Streamlit Logo](https://streamlit.io/images/brand/streamlit-mark-color.svg)
 
 Welcome to the **Face Detection App** repository! This project demonstrates the power of face, eyes, and smile detection using OpenCV and Streamlit. The app also includes various image enhancement features and fun transformations like cartoonizing and edge detection (canny).
